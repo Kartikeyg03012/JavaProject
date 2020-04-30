@@ -8,7 +8,7 @@ Project name:-Wondermud(Connect The Globe)
 About wondermud
 	This is the websites where you can explore the world’s best places and make a trip with your friends, family. Here you can easily plan the trip by just selecting your destination it will complete in simple five steps:
 	
-  	1.	Visit our site www.Wondermud.com
+  	1.	Visit our site 
 
 	2.	Register on the site
 
@@ -120,24 +120,23 @@ because it helps to find bugs before integration testing is carried out.
 
 6.User Validation 
 Login page
-![ ](1.0.png)
 
-![ ](1.0.0.png)
+![ ](1.0.png)
  
 shows the user validation page. In the event that a user who intends to have access to the system but 
 ends up inputting a wrong username or password, the system displays a warning message showing “Invalid 
 Username or Password”. 
 Login page Validation diagram:-
  
-
+![ ](1.0.0.png)
 Servlet connectivity with Database:-
-
-
+![ ](1.png)
 First Page after successful login:-
-
+![ ](2.png)
 
 This Is our next page features:-
- 
+![ ](3.png)
+![ ](4.png)
  
 
 
@@ -146,8 +145,8 @@ This Is our next page features:-
 
 
 This Is our Destination page:-
- 
-
+ ![ ](5.png)
+![ ](6.png)
  
  
 
@@ -155,21 +154,22 @@ This Is our Destination page:-
 
 
 This is our about us page:-
- 
-
+![ ](7.png) 
+![ ](8.png)
 
 
 
 
 
 This is our Contact page:-
- 
+![ ](9.png) 
 
 
 7.Registration Verification 
 
+
 Here You can register Your profile:-
- 
+ ![ ](10.png)
 
 
  
@@ -182,7 +182,7 @@ and in turn this information is used by the user to login to the system.
 
 Here you can book your trip:-
  
- 
+ ![ ](11.png)
 
 
 
@@ -191,6 +191,7 @@ Here you can book your trip:-
 
 
 9.Payment :-
+![ ](12.png)
  
 The user has a choice of making reservations online during and before visitation. shows a validation of 
 a user request who has successfully made a reservation.  
@@ -208,8 +209,8 @@ properties (Atomicity, consistency, isolation and durability) of a database mana
  
 
 Database connectivity diagram:-
- 
+ ![ ](13.png)
 
-
+![ ](14.png)
 
 
